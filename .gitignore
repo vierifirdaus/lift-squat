@@ -1,0 +1,9 @@
+# Ignore dist folder
+/dist/
+
+# Ignore build folder
+/build/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
